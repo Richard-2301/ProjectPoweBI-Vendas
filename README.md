@@ -1,3 +1,4 @@
+
 # 📊 Projeto Power BI - Análise de Vendas
 
 Este projeto tem como objetivo apresentar um painel interativo desenvolvido no **Power BI Desktop**, com foco na análise de desempenho comercial e controle de produtos.
@@ -31,6 +32,7 @@ O painel foi criado a partir de três arquivos:
 - Auxiliar no controle de estoque e planejamento de vendas
 
 ## 📸 Print do Dashboard
+![DashBoard](https://github.com/user-attachments/assets/eb77e8b0-9f8c-4d2a-8222-5528e422e66a)
 
       
 ## 👤 Richard-2301
